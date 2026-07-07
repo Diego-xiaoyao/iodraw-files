@@ -31,6 +31,9 @@
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ICaLQvyPc_qFn0oYyP5m-9" target="ICaLQvyPc_qFn0oYyP5m-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ICaLQvyPc_qFn0oYyP5m-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ICaLQvyPc_qFn0oYyP5m-9" target="ICaLQvyPc_qFn0oYyP5m-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-9" value="算法判断信息是否充足" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-70" y="70" width="80" height="80" as="geometry" />
         </mxCell>
