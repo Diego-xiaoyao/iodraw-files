@@ -28,6 +28,12 @@
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-7" value="2.生成512维特征向量" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-210" y="220" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ICaLQvyPc_qFn0oYyP5m-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ICaLQvyPc_qFn0oYyP5m-9" target="ICaLQvyPc_qFn0oYyP5m-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ICaLQvyPc_qFn0oYyP5m-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ICaLQvyPc_qFn0oYyP5m-9" target="ICaLQvyPc_qFn0oYyP5m-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-9" value="算法判断信息是否充足" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-70" y="70" width="80" height="80" as="geometry" />
         </mxCell>
@@ -71,7 +77,7 @@
           <mxGeometry x="-10" y="360" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-28" value="人脸识别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="150" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-69" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-60" y="160" width="40" height="30" as="geometry" />
