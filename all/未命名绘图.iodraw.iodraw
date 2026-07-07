@@ -90,12 +90,12 @@
           <mxGeometry x="150" y="640" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-45" value="输出人脸信息和情绪分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="660" width="80" height="60" as="geometry" />
+          <mxGeometry x="430" y="650" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-46" value="是" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="518" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ICaLQvyPc_qFn0oYyP5m-48" value="是" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ICaLQvyPc_qFn0oYyP5m-48" value="否" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="235" y="518" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
