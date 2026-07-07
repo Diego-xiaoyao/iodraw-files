@@ -54,11 +54,6 @@
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-32" value="调出信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-130" y="400" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ICaLQvyPc_qFn0oYyP5m-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ICaLQvyPc_qFn0oYyP5m-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-36" value="注册为游客，记录信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-10" y="400" width="90" height="40" as="geometry" />
         </mxCell>
@@ -66,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-42" value="DeepFace模型处理" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="640" width="140" height="110" as="geometry" />
+          <mxGeometry x="-100" y="570" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-45" value="输出人脸信息和情绪分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="790" width="80" height="60" as="geometry" />
