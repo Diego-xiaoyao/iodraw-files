@@ -98,6 +98,9 @@
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-45" value="输出人脸信息和情绪分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="660" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ICaLQvyPc_qFn0oYyP5m-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
