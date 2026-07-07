@@ -50,6 +50,9 @@
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-25" value="直接忽略掉，节省算力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="335" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ICaLQvyPc_qFn0oYyP5m-27" value="是，视为有效人脸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="418" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
