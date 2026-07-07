@@ -37,13 +37,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-9" value="算法判断信息是否充足" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-80" y="70" width="80" height="80" as="geometry" />
+          <mxGeometry x="-70" y="70" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-19" value="传输" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-370" y="70" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-25" value="直接忽略掉，节省算力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="90" width="130" height="30" as="geometry" />
+          <mxGeometry x="150" y="90" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-27" value="是，视为有效人脸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="400" width="120" height="30" as="geometry" />
