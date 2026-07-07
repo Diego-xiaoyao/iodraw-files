@@ -41,7 +41,7 @@
           <mxGeometry x="-370" y="70" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-25" value="直接忽略掉，节省算力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-40" y="230" width="130" height="40" as="geometry" />
+          <mxGeometry x="-40" y="250" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-29" value="用特征向量在数据库进行对比" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="170" width="180" height="30" as="geometry" />
@@ -65,10 +65,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-42" value="DeepFace模型处理" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-100" y="490" width="140" height="110" as="geometry" />
+          <mxGeometry x="100" y="410" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-45" value="输出人脸信息和情绪分析" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-70" y="630" width="80" height="60" as="geometry" />
+          <mxGeometry x="130" y="550" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ICaLQvyPc_qFn0oYyP5m-46" value="是" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="260" width="30" height="30" as="geometry" />
